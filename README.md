@@ -7,11 +7,19 @@ A powerful AI-powered web search agent built with **Streamlit**, **Gemini API**,
 ## 🌟 Features
 
 ✅ **Real-time Web Search** - Integrated with Tavily API for up-to-date information  
-✅ **AI-Powered Answers** - Uses Gemini 1.5 Flash for intelligent response generation  
+✅ **AI-Powered Answers** - Uses Gemini 2.5 Flash for intelligent response generation  
 ✅ **Source Attribution** - Every answer includes clickable source links  
 ✅ **Error Handling** - Graceful failure modes with helpful error messages  
 ✅ **Clean UI** - Simple, intuitive Streamlit interface  
 ✅ **Fast Execution** - Optimized for quick response times  
+
+---
+
+## 🌐 Live Demo
+
+**Try it online:** https://swaransheel-a-web-agent-app-rqz9sj.streamlit.app/
+
+No installation required! Just open the link and start searching.
 
 ---
 
